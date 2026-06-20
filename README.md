@@ -10,3 +10,4 @@ These are all my codes learned through the course in order:-
 4. managing_tokens
 5. streaming
 6. rate_limits
+7. structured_outputs
