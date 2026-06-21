@@ -11,3 +11,4 @@ These are all my codes learned through the course in order:-
 5. streaming
 6. rate_limits
 7. structured_outputs
+8. tool_calling
