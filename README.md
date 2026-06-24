@@ -20,5 +20,6 @@ This repository follows my step-by-step learning progression:
 | 6 | `rate_limits` | Handling API rate limits and backoff strategies gracefully. |
 | 7 | `structured_outputs` | Enforcing JSON schemas and structured LLM responses. |
 | 8 | `tool_calling` | Giving the model capabilities to call external functions (Agents). |
-| **9** | **intelligent_inbox_agent** | **[GRADUATION PROJECT] Built a fully autonomous multi-turn email triage pipeline. Features multi-stage AI orchestration, Pydantic type-safety validation, dynamic hyperparameter execution (altering model temperature based on classified urgency), and structured multi-turn tool calling error-handling loops.** |
+| **9** | **intelligent_inbox_agent** | **[PROJECT] Built a fully autonomous multi-turn email triage pipeline. Features multi-stage AI orchestration, Pydantic type-safety validation, dynamic hyperparameter execution (altering model temperature based on classified urgency), and structured multi-turn tool calling error-handling loops.** |
+
 ---
